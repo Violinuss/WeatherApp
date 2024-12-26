@@ -1,3 +1,3 @@
 # WeatherApp
 
-**Violeta B: Eidesstaatliche Erklärung im Briefkasten
+Violeta B: Eidesstaatliche Erklärung im Briefkasten
